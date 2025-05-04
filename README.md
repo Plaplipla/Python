@@ -1,2 +1,3 @@
 # Python
-1er año - Fundamentos de programación - Python
+1er año - 1er semestre
+Fundamentos de programación - Python
